@@ -1,0 +1,20 @@
+{
+  "products": [
+    {
+      "name": "Product1",
+      "type": "Electronics",
+      "price": 299.99,
+      "upc": "123456789012",
+      "description": "Product 1 Description",
+      "manufacturer": "BestBuy"
+    },
+    {
+      "name": "Product2",
+      "type": "Home",
+      "price": 499.99,
+      "upc": "123456789013",
+      "description": "Product 2 Description",
+      "manufacturer": "Target"
+    }
+  ]
+}
